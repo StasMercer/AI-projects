@@ -1,0 +1,29 @@
+G2 vs. OG - Week 5 Day 1 | LEC Summer Split | G2 Esports vs. Origen (2020)
+Friend OG - Neural Network G2 | OG win | Friend 1 Neural Network 0
+
+FNC vs. VIT - Week 5 Day 2 | LEC Summer Split | Fnatic vs. Vitality (2020)
+Friend VIT - Neural Network VIT | FNC win | Friend 1 Neural Network 0
+
+MAD vs. G2 - Week 5 Day 2 | LEC Summer Split | MAD Lions vs. G2 Esports (2020)
+Friend MAD - Neural Network MAD | MAD win | Friend 2 Neural Network 1
+
+OG vs. FNC - Week 6 Day 2 | LEC Summer Split | Origen vs. Fnatic (2020)
+Friend FNC - Neural Network FNC | FNC win | Friend 3 Neural Network 2
+
+FNC vs. MAD - Week 6 Day 1 | LEC Summer Split | Fnatic vs. MAD Lions (2020)
+Friend MAD - Neural Network FNC | MAD win | Friend 4 Neural Network 2
+
+SK vs. MAD - Week 6 Day 2 | LEC Summer Split | SK Gaming vs. MAD Lions (2020)
+Friend SK - Neural Network MAD | SK win | Friend 5 Neural Network 2
+
+VG vs. TES - Game 1 | LPL Summer Split 2020 Week 7 | Vici Gaming vs. Top Esports
+Friend TES - Neural Network TES | TES win | Friend 6 Neural Network 3
+
+SK vs. XL - Week 6 Day 1 | LEC Summer Split | SK Gaming vs. Excel Esports (2020)
+Friend XL - Neural Network SK | XL win | Friend 7 Neural Network 3
+
+JDG vs. VG - Game 1 | LPL Summer Split 2020 Week 7 | JD Gaming vs. Vici Gaming
+Friend VG - Neural Network VG | VG win | Friend 8 Neural Network 4
+
+JDG vs. FPX - Game 1 | LPL Summer Split 2020 Week 7 | JD Gaming vs. FunPlus Phoenix
+Friend JDG - Neural Network JDG | JDG win | Friend 9 Neural Network 5
